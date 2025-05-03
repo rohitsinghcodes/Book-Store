@@ -28,7 +28,7 @@ The **Book Store** is a full-stack web application built using the **MERN** stac
 ### 1️⃣ Clone the Repository
 
 ```sh
-git clone https://github.com/rohitsingh037/book-store.git
+git clone https://github.com/rohitsinghcodes/book-store.git
 cd book-store
 ```
 
