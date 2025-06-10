@@ -60,7 +60,7 @@ Create a .env file in the frontend directory and add the following:
 
 ```sh
 VITE_APIKEY=your_firebase_api_key
-VITE_AUTHDOMAIN=your_firebase_auth_domain
+VITE_AUTHDOMAIN=your_firebase_auth_domain 
 VITE_PROJECTID=your_firebase_project_id
 VITE_STORAGEBUCKET=your_firebase_storage_bucket
 VITE_MESSAGINGSENDERID=your_firebase_messaging_sender_id
